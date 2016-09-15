@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Cemetery of Nonlone's Code
 subtitle:
 description:
 author: John Doe
@@ -70,4 +70,5 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/Nonlone/nonlone.github.io.git
-  branch: gh-pages
+  branch: master
+ 
